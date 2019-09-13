@@ -1,0 +1,1 @@
+# demo-gradle-plugin-consumer
