@@ -1,0 +1,10 @@
+pluginManagement {
+    repositories {
+        maven {
+            url = '/home/mmni/IdeaProjects/demo-standalone-gradle-plugin/build/repo/'
+        }
+    }
+}
+rootProject.name = 'demo-gradle-plugin-consumer'
+
+
